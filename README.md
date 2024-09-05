@@ -9,5 +9,5 @@ Visualized monthly debt trends and calculated total current credit balance.
 Enabled focused analysis through calendar quarter filters.
 Passionate about leveraging data to drive insights and decisions. Always eager to collaborate on open-source projects, AI research, and innovative web development initiatives.
 
-Feel free to connect with me via email tns3969@gmail.com
+connect with me via email tns3969@gmail.com
 
