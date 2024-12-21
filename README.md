@@ -1,6 +1,6 @@
 🌟 Data Enthusiast | Open-Source Contributor | Python & Data Science Learner
 
-Hi, I'm tns! I specialize in creating insightful data visualizations and dashboards, particularly using Power BI. Recently, I developed interactive dashboards for a banking project, where I analyzed customer data, loan details, and trends over time. My work involved visualizing loan statuses, customer demographics, and monthly debt trends, which greatly enhanced decision-making and strategic planning.
+Hi, I'm TNS! I specialize in creating insightful data visualizations and dashboards, particularly using Power BI. Recently, I developed interactive dashboards for a banking project, where I analyzed customer data, loan details, and trends over time. My work involved visualizing loan statuses, customer demographics, and monthly debt trends, which greatly enhanced decision-making and strategic planning.
 
 🔍 Key Highlights:
 
